@@ -1,4 +1,6 @@
-﻿# Event Ticketing Platform
+[Event_Ticketing_Platform_Project_Report.docx](https://github.com/user-attachments/files/35216541/Event_Ticketing_Platform_Project_Report.docx)
+
+ # Event Ticketing Platform
 
 A RESTful event ticketing backend built with Java 21 and Spring Boot.
 
